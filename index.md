@@ -2,10 +2,10 @@
 
 # LINKS
 
-[]([https://gitlab.com/nata.ananikova)
+[1]([https://gitlab.com/nata.ananikova)
 
-[](https://www.kaggle.com/nataliiaananikova)
+[2](https://www.kaggle.com/nataliiaananikova)
 
-[](https://www.linkedin.com/in/nataliia-ananikova-060230151/)
+[3](https://www.linkedin.com/in/nataliia-ananikova-060230151/)
 
 
